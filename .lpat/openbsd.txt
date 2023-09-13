@@ -1,0 +1,3 @@
+py3-qtpy
+py3-packaging
+py3-qt5
